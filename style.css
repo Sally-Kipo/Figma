@@ -1,0 +1,29 @@
+.blue{
+    background-color: #2F80ED;
+    position: absolute;
+    width: 400px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+}
+.vector{
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 12.5%;
+    bottom: 12.5%;
+}
+.settings{
+    position: absolute;
+    left: 11.11%;
+    right: 11.11%;
+    top: 10%;
+    bottom: 10%;
+}
+.logout{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    left: 63px;
+    top: 845px;
+}
