@@ -1,26 +1,31 @@
 h1{
-	border: sold;
+	border: solid;
 
 }
-.text{
+.data{  border: 1px solid gray;
+	text color: black;
 	padding: 24px 257px 24px 29px;
-	margin -bottom : 31px;
-	margin-top: 93px;
+	margin: 93px 585px 31px 55px;
 }
-.email{
-	padding: 24px 281px 24px 29px;
-	margin-bottom: 21px;
-	margin-top: 31px;
+.mail{
+	   border: 1px solid gray;
+	   text color: black;
+	   padding: 24px 181px 24px 29px;
+	   margin: 31px 585px 21px 55px;
 }
-.password{padding: 24px 279px 24px 29px;
-	margin- bottom: 42px;
-	margin-top: 21px;
+.password{border: 1px solid gray;
+	   text color: black;
+	   padding: 24px 279px 24px 29px;
+	   margin: 21px 585px 42px 55px;
 
 }
+.save{border: 1px solid gray;
+	   text color: black;
+	   padding: 20px 51px 19px 38px;
+	   background color: black;
+	   text color: white;
+	   margin: 42px 835px 312px 55px;
 
-.button{padding: 20px 41px 19px 38px;
-	margin-top: 42px;
-	margin-bottom: 312px;
 
 
 }
