@@ -1,31 +1,22 @@
-h1{
-	border: solid;
-
+.blue{
+	background-color: blue;
+	position: absolute;
+	width: 400px;
+	height: 900px;
+	left: 0 px;
+	right: 0 px;
 }
-.data{  border: 1px solid gray;
-	text color: black;
-	padding: 24px 257px 24px 29px;
-	margin: 93px 585px 31px 55px;
-}
-.mail{
-	   border: 1px solid gray;
-	   text color: black;
-	   padding: 24px 181px 24px 29px;
-	   margin: 31px 585px 21px 55px;
-}
-.password{border: 1px solid gray;
-	   text color: black;
-	   padding: 24px 279px 24px 29px;
-	   margin: 21px 585px 42px 55px;
+.vactor{
+	position: absolute;
+	width: 156px;
+	height: 16px;
+	left:101px;
+	top: 257px;
 
-}
-.save{border: 1px solid gray;
-	   text color: black;
-	   padding: 20px 51px 19px 38px;
-	   background color: black;
-	   text color: white;
-	   margin: 42px 835px 312px 55px;
-
-
+	
+	font-size: normal;
+	font-weight: 700px;
+	font-size: 18px;
+	line-height: 27px;
 
 }
