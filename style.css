@@ -1,6 +1,26 @@
 h1{
 	border: sold;
+
 }
-form{margin: 24px 29px 24px 181px;
+.text{
+	padding: 24px 257px 24px 29px;
+	margin -bottom : 31px;
+	margin-top: 93px;
+}
+.email{
+	padding: 24px 281px 24px 29px;
+	margin-bottom: 21px;
+	margin-top: 31px;
+}
+.password{padding: 24px 279px 24px 29px;
+	margin- bottom: 42px;
+	margin-top: 21px;
+
+}
+
+.button{padding: 20px 41px 19px 38px;
+	margin-top: 42px;
+	margin-bottom: 312px;
+
 
 }
